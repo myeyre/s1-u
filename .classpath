@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/workfiles/workspace/socket_lte/lib/kafka_2.10-0.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/workfiles/workspace/socket_lte/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="E:/workfiles/workspace/socket_lte/lib/metrics-core-2.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/workfiles/workspace/socket_lte/lib/scala-library-2.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/workfiles/workspace/socket_lte/lib/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/workfiles/workspace/frame/WebContent/WEB-INF/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
